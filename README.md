@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-x1<stirk>abdo/x1abdo</stirk> is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strike>x1abdo/x1abdo</strike> is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
